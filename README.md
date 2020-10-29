@@ -8,7 +8,6 @@ Source code for multiple cron jobs
 - Retraining pipeline Weekly
 
 ## Unit tests
-
 There's a script named `runtests.sh` that can be used to run all unit tests. The unit test coverage is reported as well by this script.
 
 Usage:
